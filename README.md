@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Simone
 
-<!--
-**simone-zheng-1994/simone-zheng-1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Junior Full-Stack Developer with a love for building clean, functional web applications. 
+I specialize in the **Spring Boot · React · PostgreSQL** stack and I'm currently exploring **AWS Cloud**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Backend:**
+- Java · Spring Boot · Spring Data JPA · Spring Security
+- REST APIs · Microservices
+
+**Frontend:**
+- React · JavaScript · HTML5 · CSS3 · Tailwind CSS
+
+**Database:**
+- PostgreSQL · MySQL · H2
+
+**Tools & Cloud:**
+- Git · GitHub · Docker · AWS (learning ☁️)
+
+---
+
+## 🌱 Currently Learning
+
+- AWS Cloud (EC2, RDS, S3, IAM)
+- Microservices architecture
+- CI/CD pipelines
+
+---
+
+## 📂 What I'm Working On
+
+🔭 **Portfolio Website** — My personal portfolio built with React + Spring Boot
+
+🌱 **Spring Boot + AWS Project** — Deploying a full-stack app to the cloud
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-link)
+
+---
+
+⭐️ *"Always learning, always building."*
