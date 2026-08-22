@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm Simone. I'm a Full-Stack Developer specializing in Spring Boot, React, and PostgreSQL. Currently building my portfolio website to showcase my expertise and attract clients.
+Hi, I'm Simone. I'm a Full-Stack Developer specializing in Spring Boot, React, and PostgreSQL.
 
 ## Technical Stack
 
